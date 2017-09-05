@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>	<link href="css/styles.css" rel="stylesheet" type="text/css">
+		<title>My first webpage!</title>
+	</head>
+	<body>
+		
+		<p>Check out <a href="http://moringaschool.com/">Moringa School</a>.It's a great place to learn web development skills!</p>
+		<p>Here is a link to my <a href="my-favourite-things.html"> favorite things</a>.</p>
+		<h1>My First Webpage</h1>
+		<h2>Written with a little guidance from <em>Moringa School</em></h2>
+		<p>Hello, world!</p>
+	        <p>Welcome to <strong>my first webpage</strong>!</p>
+	        
+		<ol>
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>JavaScript</li>
+			<li>And Beyond</li>
+		</ol>
+		
+		<img src="images/phot.jpg" alt="summer class">
+	</body>
+</html>
