@@ -1,23 +1,42 @@
 <!DOCTYPE html>
 <html>
-	<head>	<link href="css/styles.css" rel="stylesheet" type="text/css">
-		<title>My first webpage!</title>
+	<head>	<link href="css/boootsrap-theme.min.css" rel="stylesheet" type="text/css">
+		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" >
+		<link href="css/styles.css" rel="stylesheet" type="text/css>
+		<link href="images/icon.ico" rel="icon" type="imagges/x-icon" >
+		<title>My Website</title>
 	</head>
 	<body>
 		
-		<p>Check out <a href="http://moringaschool.com/">Moringa School</a>.It's a great place to learn web development skills!</p>
-		<p>Here is a link to my <a href="my-favourite-things.html"> favorite things</a>.</p>
+		<div class="container">
+		<div class="jumbotron">
 		<h1>My First Webpage</h1>
+		<img src="images/images.jpg" >
 		<h2>Written with a little guidance from <em>Moringa School</em></h2>
 		<p>Hello, world!</p>
-	        <p>Welcome to <strong>my first webpage</strong>!</p>
-	        
+	        <p><em>Welcome to<em/> <strong>my first webpage</strong>!</p>
+		</div>
+	        </div>
+		<div class="well">
 		<ol>
-			<li>HTML</li>
+			<li class="text-primary">HTML</li>
 			<li>CSS</li>
-			<li>JavaScript</li>
+			<li class="bg-success">JavaScript</li>
 			<li>And Beyond</li>
 		</ol>
+		</div>
+		<div class="panel panel-success">
+		
+			<div class="panel-heading">
+		<div class="panel-title">
+		<p>Check out <a href="http://moringaschool.com/">Moringa School</a>.It's a great place to learn web development skills!</p></div></div>
+		<div class="panel-body">
+                <p>yesss yenbn nclnlmnn mncn msnmnn .snk ksjk kmmjk mkm ,m,mmmk,c.   mmm,m mmmmmmmm . m,m.,,,mm,mmnnnk,. nn,.m m,
+		vndnndmmmmmmmmm mv nnnk nnbf  mmnnnbkmmbmkb;kbmmm .mfnbnfknbfkkl  mb mb bnnbnb  mnbnbnbnkbfnbnf  mfnbnbnnblblnn
+		nlnlnl mnnnnkn mnnkkf kkkk nnjjlkj mfnfnnfk mnnlbnnk mfbnfnn mfnfd mnfnfn m nnnn mnnnf mnnfnkn mnnnmnmnn mnnnn mnm
+		nnnnmm..b,m m nbnnb  ..bm, ,.mn,m, ., nmmnmn m.fnnnknkln mfnfnnkkkfmkfmk;fmk mnnj  ,mbmnnb </p></div>
+		<div class="panel-footer">
+		<p>Here is a link to my <a href="my-favourite-things.html"> favorite things</a>.</p></div>
 		
 		<img src="images/phot.jpg" alt="summer class">
 	</body>

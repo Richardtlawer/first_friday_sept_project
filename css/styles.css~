@@ -11,11 +11,34 @@ h2 {
 
 p {
 	font-family:sans-serif;
+	background-color:orange;
 }
 
 ul {
 	line-height:40px;
-	background-color:orange;
+	
 }
 
+img {
+   	float:left;
+	width:410px;
+	padding:20px;
+	border:2px solid green;
+	margin:2px;
+}
 
+  .row{ 
+		
+		
+		padding:10px;
+		border:2px solid blue;
+		margin:2px;
+                background-color:orange;
+}
+span{
+	background-color:yellow;
+}
+
+.menu{
+	background-color:yellow;
+}
